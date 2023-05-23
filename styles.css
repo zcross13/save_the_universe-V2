@@ -1,11 +1,3 @@
 body {
     margin: 0
 }
-
-#canvas {
-    background-color: black
-}
-
-#gameContainer {
-    background-color: red;
-}
